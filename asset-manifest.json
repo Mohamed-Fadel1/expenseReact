@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expenseReact/static/css/main.c5ab6d70.css",
+    "main.js": "/expenseReact/static/js/main.f177cdee.js",
+    "static/js/453.d3cdb6a2.chunk.js": "/expenseReact/static/js/453.d3cdb6a2.chunk.js",
+    "index.html": "/expenseReact/index.html",
+    "main.c5ab6d70.css.map": "/expenseReact/static/css/main.c5ab6d70.css.map",
+    "main.f177cdee.js.map": "/expenseReact/static/js/main.f177cdee.js.map",
+    "453.d3cdb6a2.chunk.js.map": "/expenseReact/static/js/453.d3cdb6a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5ab6d70.css",
+    "static/js/main.f177cdee.js"
+  ]
+}
